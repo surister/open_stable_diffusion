@@ -8,6 +8,9 @@ torch
 torchvision
 numpy
 opencv-python
+pandas
+scipy
+kornia
 -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
 -e git+https://github.com/openai/CLIP.git@main#egg=clip
 # This path is open_stable_diffusion dependant.
