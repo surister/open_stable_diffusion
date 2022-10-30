@@ -141,3 +141,5 @@ cython_debug/
 poetry.*
 .idea
 pyproject.toml
+stable_diffusion/stable_diffusionSD
+stable_diffusion/stable-diffusion
